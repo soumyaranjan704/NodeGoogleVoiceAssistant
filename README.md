@@ -14,10 +14,10 @@ After run pls put this command to connect the nodeserver:
 
 - Architecture
 
-Creating an agent in Dialogflow
-Creating NodeJS project and installing libraries
-Creating NodeJS backend for Dialogflow
-Integrating Dialogflow with NodeJS backend
-Installing and using ngrok
-Testing the Dialogflow agent.
-Deploying it on google assistant.
+Creating an agent in Dialogflow <br>
+Creating NodeJS project and installing libraries<br>
+Creating NodeJS backend for Dialogflow<br>
+Integrating Dialogflow with NodeJS backend<br>
+Installing and using ngrok<br>
+Testing the Dialogflow agent.<br>
+Deploying it on google assistant.<br>
