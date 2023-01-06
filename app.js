@@ -61,6 +61,8 @@ app.intent('devicecontrol', (conv,{devicename,devicestatus}) => {
                 reject(conv.ask("I am not able to process it."));
             }
             else{
+                // var device_data = (JSON.parse(body).device_status);
+                console.log(body);
                 resolve(conv.ask("Turned "+device_status+ " "+device_name));
             }
            
